@@ -1,0 +1,15 @@
+
+body{
+    background-image: url(http://2.bp.blogspot.com/-UK0aoYYDaOw/Tr93qlWQqdI/AAAAAAAAAQA/hNB3UaasLj4/s1600/2009_motor_trend_car_of_the_year_contenders.jpg);
+	text-align: center;
+}
+
+.text-muted{
+	color: darkgreen;
+}
+.last-seconds{
+  color: blue;
+}
+.option{
+  margin: 20px;
+}
